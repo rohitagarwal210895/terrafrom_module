@@ -1,5 +1,5 @@
 variable "ins_typ" {
-  default = "t2.medium"
+  default = "t2.micro"
   type    = string
 }
 
